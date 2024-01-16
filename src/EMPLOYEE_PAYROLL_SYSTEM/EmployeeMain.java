@@ -1,5 +1,7 @@
 package EMPLOYEE_PAYROLL_SYSTEM;
 
+import java.util.Scanner;
+
 public class EmployeeMain {
     public static void main(String[] args) {
         PayrollSystem payrollSystem = new PayrollSystem();
@@ -19,5 +21,7 @@ public class EmployeeMain {
         payrollSystem.removeEmployee(2);
         System.out.println("remaining employee details");
         payrollSystem.displayEmployee();
-    }
-}
+
+        }//main method
+    }//class block
+//}

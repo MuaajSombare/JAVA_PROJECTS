@@ -27,7 +27,7 @@ abstract class Employee { //extendable class, achieving inheritance
     public String toString() {
         return "Employee{" +
                 "name='" + name + '\'' +
-                ", id=" + id + "salary="+calculateSalary()+
+                ", id= " + id + " salary = "+calculateSalary()+
                 '}';
     }
 }//abstract class is completed
@@ -62,7 +62,7 @@ class PartTimeEmployee extends Employee{
 
     @Override
     public double calculateSalary() {
-        return hourlyRate * hourlyRate;
+        return hourlyRate * hoursWorked;
     }
 }//end PartTimeEmployee class
 

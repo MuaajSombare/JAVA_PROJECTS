@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65ccca79-f5e2-4ba5-8ffd-ffdc6043d6f5" name="Changes" comment="stating new project on employee payroll system">
+    <list default="true" id="65ccca79-f5e2-4ba5-8ffd-ffdc6043d6f5" name="Changes" comment="early stage project is finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EMPLOYEE_PAYROLL_SYSTEM/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EMPLOYEE_PAYROLL_SYSTEM/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EMPLOYEE_PAYROLL_SYSTEM/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EMPLOYEE_PAYROLL_SYSTEM/EmployeeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LbSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LbSample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,33 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EmployeeMain">
-    <configuration name="AtmMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ATM_Machine.AtmMain" />
-      <module name="JAVA_PROJECTS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ATM_Machine.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AtmMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ATM_Machine.AtmMain" />
-      <module name="JAVA_PROJECTS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ATM_Machine.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EmployeeMainMenuDriven">
     <configuration name="AtmMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ATM_Machine.AtmMain" />
       <module name="JAVA_PROJECTS" />
@@ -105,13 +81,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EmployeeMainMenuDriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EMPLOYEE_PAYROLL_SYSTEM.EmployeeMainMenuDriven" />
+      <module name="JAVA_PROJECTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EMPLOYEE_PAYROLL_SYSTEM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LbSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LbSample" />
+      <module name="JAVA_PROJECTS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeMainMenuDriven" />
         <item itemvalue="Application.EmployeeMain" />
+        <item itemvalue="Application.LbSample" />
         <item itemvalue="Application.AtmMain (4)" />
         <item itemvalue="Application.AtmMain (3)" />
-        <item itemvalue="Application.AtmMain (2)" />
-        <item itemvalue="Application.AtmMain (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702820558399</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="early stage project is finished">
+      <created>1702998853169</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702998853169</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project completed on how atm machine work" />
     <MESSAGE value="stating new project on employee payroll system" />
-    <option name="LAST_COMMIT_MESSAGE" value="stating new project on employee payroll system" />
+    <MESSAGE value="early stage project is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="early stage project is finished" />
   </component>
 </project>
